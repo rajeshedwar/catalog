@@ -1,0 +1,14 @@
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
+E:\Rajesh Johnson FSD\APIM\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
